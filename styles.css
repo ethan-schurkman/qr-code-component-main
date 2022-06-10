@@ -59,5 +59,17 @@ footer {
     text-align: center;
 }
 
+footer a {
+    color: hsl(218, 44%, 22%);
+    font-weight: bold;
+    text-decoration: none;
+}
+
+footer a:visited {
+    color: hsl(218, 44%, 22%);
+    font-weight: bold;
+    text-decoration: none;
+}
+
 
 
